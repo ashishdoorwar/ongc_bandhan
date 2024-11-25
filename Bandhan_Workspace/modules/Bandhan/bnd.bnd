@@ -1,0 +1,6 @@
+Bundle-Name: Bandhan
+Bundle-SymbolicName: com.ongc.liferay.bandhan
+Bundle-Version: 1.0.0
+Export-Package: com.ongc.liferay.bandhan.constants
+Include-Resource: @itextpdf-5.0.6.jar
+Import-Package:!org.bouncycastle.asn1,!org.bouncycastle.asn1.cmp,!org.bouncycastle.asn1.cms,!org.bouncycastle.asn1.ocsp,!org.bouncycastle.asn1.pkcs,!org.bouncycastle.asn1.tsp,!org.bouncycastle.asn1.x509,!org.bouncycastle.cms,!org.bouncycastle.crypto,!org.bouncycastle.crypto.engines,!org.bouncycastle.crypto.modes,!org.bouncycastle.crypto.paddings,!org.bouncycastle.crypto.params,!org.bouncycastle.jce.provider,!org.bouncycastle.ocsp,!org.bouncycastle.tsp,!org.bouncycastle.jce,*
